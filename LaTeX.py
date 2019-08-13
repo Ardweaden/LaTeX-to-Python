@@ -44,7 +44,7 @@ class LaTeX:
                         "pattern": "\\\\end{for}",
                         "groups": [],
                         "instructions": None,
-                        "python_code": "\r",
+                        "python_code": "\r\n",
                         "indent": -4,
                         },
                 "while": {
@@ -58,7 +58,7 @@ class LaTeX:
                         "pattern": "\\\\end{while}",
                         "groups": [],
                         "instructions": None,
-                        "python_code": "\r",
+                        "python_code": "\r\n",
                         "indent": -4,
                         },
                 "set_variable": {
