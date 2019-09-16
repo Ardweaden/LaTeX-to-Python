@@ -1,5 +1,7 @@
 # LaTeX-to-Python
 
+![alt text](https://raw.githubusercontent.com/Ardweaden/LaTeX-to-Python/master/Images/translation.png "Translation example")
+
 ## Glossary
 
 | Python                                | LaTeX.py equivalent                            |
